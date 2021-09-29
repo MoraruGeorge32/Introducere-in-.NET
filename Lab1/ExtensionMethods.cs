@@ -5,7 +5,7 @@ namespace ExtensionMethods
     {
         public static string[] WordArray(this String str){
             return str.Split(new char[] { ' ', '.', '?', '!'},
-            StringSplitOptions.RemoveEmptyEntries);    
+            StringSplitOptions.RemoveEmptyEntries);
         }
         public static int WordCount(this String str)
         {

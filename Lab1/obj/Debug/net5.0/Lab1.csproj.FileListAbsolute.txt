@@ -30,3 +30,19 @@ D:\ANUL 3\.NET\Introducere-in-.NET\Lab1\bin\Debug\net5.0\Lab1.dll
 D:\ANUL 3\.NET\Introducere-in-.NET\Lab1\bin\Debug\net5.0\ref\Lab1.dll
 D:\ANUL 3\.NET\Introducere-in-.NET\Lab1\bin\Debug\net5.0\Lab1.pdb
 D:\ANUL 3\.NET\Introducere-in-.NET\Lab1\obj\Debug\net5.0\Lab1.genruntimeconfig.cache
+D:\_ user ecaaa\Documents\GitHub\Introducere-in-.NET\lab1\bin\Debug\net5.0\Lab1.exe
+D:\_ user ecaaa\Documents\GitHub\Introducere-in-.NET\lab1\bin\Debug\net5.0\Lab1.deps.json
+D:\_ user ecaaa\Documents\GitHub\Introducere-in-.NET\lab1\bin\Debug\net5.0\Lab1.runtimeconfig.json
+D:\_ user ecaaa\Documents\GitHub\Introducere-in-.NET\lab1\bin\Debug\net5.0\Lab1.runtimeconfig.dev.json
+D:\_ user ecaaa\Documents\GitHub\Introducere-in-.NET\lab1\bin\Debug\net5.0\Lab1.dll
+D:\_ user ecaaa\Documents\GitHub\Introducere-in-.NET\lab1\bin\Debug\net5.0\ref\Lab1.dll
+D:\_ user ecaaa\Documents\GitHub\Introducere-in-.NET\lab1\bin\Debug\net5.0\Lab1.pdb
+D:\_ user ecaaa\Documents\GitHub\Introducere-in-.NET\lab1\obj\Debug\net5.0\Lab1.csproj.AssemblyReference.cache
+D:\_ user ecaaa\Documents\GitHub\Introducere-in-.NET\lab1\obj\Debug\net5.0\Lab1.GeneratedMSBuildEditorConfig.editorconfig
+D:\_ user ecaaa\Documents\GitHub\Introducere-in-.NET\lab1\obj\Debug\net5.0\Lab1.AssemblyInfoInputs.cache
+D:\_ user ecaaa\Documents\GitHub\Introducere-in-.NET\lab1\obj\Debug\net5.0\Lab1.AssemblyInfo.cs
+D:\_ user ecaaa\Documents\GitHub\Introducere-in-.NET\lab1\obj\Debug\net5.0\Lab1.csproj.CoreCompileInputs.cache
+D:\_ user ecaaa\Documents\GitHub\Introducere-in-.NET\lab1\obj\Debug\net5.0\Lab1.dll
+D:\_ user ecaaa\Documents\GitHub\Introducere-in-.NET\lab1\obj\Debug\net5.0\ref\Lab1.dll
+D:\_ user ecaaa\Documents\GitHub\Introducere-in-.NET\lab1\obj\Debug\net5.0\Lab1.pdb
+D:\_ user ecaaa\Documents\GitHub\Introducere-in-.NET\lab1\obj\Debug\net5.0\Lab1.genruntimeconfig.cache

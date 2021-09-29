@@ -3,21 +3,73 @@ using System;
 namespace Lab1
 {
     abstract class Employee{
-        protected int Id;
-        protected string FirstName;
-        protected string LastName;
-        protected DateTime StartDate;
-        protected DateTime EndDate;
-        protected int Salary;
+        protected int id;
+        protected string firstName;
+        protected string lastName;
+        protected DateTime startDate;
+        protected DateTime endDate;
+        protected int salary;
 
         public string getFullName(){
-            return this.FirstName + " " + this.LastName;
+            return this.firstName + " " + this.lastName;
         }
 
         public bool isActive(){
-            return ((this.EndDate-this.StartDate).TotalDays>0 ? true : false);
+            return ((this.endDate-this.startDate).TotalDays>0 ? true : false);
         }
 
         public abstract string salutation();
+        public int Id{
+            get{
+                return id;
+            }
+            set{
+                id=value;
+            }
+        }
+        public string FirstName{
+            get{
+                return firstName;
+            }
+            set{
+                if(value!=null)
+                {firstName=value;}
+
+                }
+            }
+          public string LastName{
+            get{
+                return lastName;
+            }
+            set{
+                if(value!=null)
+                {lastName=value;}
+
+                }
+            }
+         public int Salary{
+            get{
+                return salary;
+            }
+            set{
+                salary=value;
+            }
+         }
+            public DateTime StartDate{
+            get{
+                return startDate;
+            }
+            set{
+                startDate=value;
+            }
+            }
+             public DateTime EndDate{
+            get{
+                return endDate;
+            }
+            set{
+                endDate=value;
+            }
+            }
     }
 }

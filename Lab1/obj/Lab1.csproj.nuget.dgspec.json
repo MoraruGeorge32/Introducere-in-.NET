@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\ANUL 3\\.NET\\Introducere-in-.NET\\Lab1\\Lab1.csproj": {}
+    "D:\\_ user ecaaa\\Documents\\GitHub\\Introducere-in-.NET\\lab1\\Lab1.csproj": {}
   },
   "projects": {
-    "D:\\ANUL 3\\.NET\\Introducere-in-.NET\\Lab1\\Lab1.csproj": {
+    "D:\\_ user ecaaa\\Documents\\GitHub\\Introducere-in-.NET\\lab1\\Lab1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\ANUL 3\\.NET\\Introducere-in-.NET\\Lab1\\Lab1.csproj",
+        "projectUniqueName": "D:\\_ user ecaaa\\Documents\\GitHub\\Introducere-in-.NET\\lab1\\Lab1.csproj",
         "projectName": "Lab1",
-        "projectPath": "D:\\ANUL 3\\.NET\\Introducere-in-.NET\\Lab1\\Lab1.csproj",
-        "packagesPath": "C:\\Users\\morar\\.nuget\\packages\\",
-        "outputPath": "D:\\ANUL 3\\.NET\\Introducere-in-.NET\\Lab1\\obj\\",
+        "projectPath": "D:\\_ user ecaaa\\Documents\\GitHub\\Introducere-in-.NET\\lab1\\Lab1.csproj",
+        "packagesPath": "C:\\Users\\Khety\\.nuget\\packages\\",
+        "outputPath": "D:\\_ user ecaaa\\Documents\\GitHub\\Introducere-in-.NET\\lab1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\morar\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Khety\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
