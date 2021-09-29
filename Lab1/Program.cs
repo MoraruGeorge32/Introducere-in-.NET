@@ -1,5 +1,5 @@
 ﻿using System;
-
+using ExtensionMethods;
 namespace Lab1
 {
     class Program
@@ -14,6 +14,12 @@ namespace Lab1
             Console.WriteLine(architect.getFullName());
             Console.WriteLine(salutation);
             Console.WriteLine(salutation2);
+            string s = "I have 5 words here!";
+            int i = s.WordCount();
+            string[] array = s.WordArray();
+            Console.WriteLine(i);
+            foreach(var j in array) 
+                Console.Write(j+" ");
         }
     }
 }
