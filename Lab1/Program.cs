@@ -20,12 +20,13 @@ namespace Lab1
             architect.FirstName = "George";
             architect.LastName = "Bacovia";
             architect.StartDate =new DateTime(2012,5,1);
-            architect.EndDate = new DateTime(2021,9,29);
+            architect.EndDate = new DateTime(2021,10,9);
             architect.Salary =2500;
 
             string salutation = manager.salutation();
             string salutation2 = architect.salutation();
             Console.WriteLine(manager.getFullName());
+            Console.WriteLine(architect.isActive());
             Console.WriteLine(architect.getFullName());
             Console.WriteLine(salutation);
             Console.WriteLine(salutation2);

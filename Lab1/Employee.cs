@@ -13,9 +13,15 @@ namespace Lab1
         public string getFullName(){
             return this.firstName + " " + this.lastName;
         }
-
         public bool isActive(){
-            return ((this.endDate-this.startDate).TotalDays>0 ? true : false);
+            DateTime today = DateTime.Today;
+            if ((this.endDate-today).TotalDays>0)
+                {
+                    if((today-this.startDate).TotalDays>0)
+                    return ((this.endDate-this.startDate).TotalDays>0 ? true : false);
+                else return false;
+                }
+            else return false;
         }
 
         public abstract string salutation();
