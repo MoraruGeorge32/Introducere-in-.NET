@@ -18,8 +18,8 @@ namespace Lab1
             if ((this.endDate-today).TotalDays>0)
                 {
                     if((today-this.startDate).TotalDays>0)
-                    return ((this.endDate-this.startDate).TotalDays>0 ? true : false);
-                else return false;
+                        return ((this.endDate-this.startDate).TotalDays>0 ? true : false);
+                    else return false;
                 }
             else return false;
         }

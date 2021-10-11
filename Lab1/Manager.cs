@@ -12,8 +12,6 @@ namespace Lab1
         //     this.EndDate=EndDate;
         //     this.Salary=Salary;
         // }
-        public Manager()
-        {}
         public override string salutation() => "Hello manager!";
     }
 }

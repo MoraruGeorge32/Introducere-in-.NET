@@ -12,9 +12,6 @@ namespace Lab1
         //     this.EndDate=EndDate;
         //     this.Salary=Salary;
         // }
-        public Architect()
-        {}
-
         public override string salutation() => "Hello architect!";
     }
 }

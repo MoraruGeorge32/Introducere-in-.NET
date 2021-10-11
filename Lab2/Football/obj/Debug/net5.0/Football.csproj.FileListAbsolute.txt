@@ -1,0 +1,16 @@
+D:\ANUL 3\.NET\Introducere-in-.NET\Lab2\Football\bin\Debug\net5.0\Football.exe
+D:\ANUL 3\.NET\Introducere-in-.NET\Lab2\Football\bin\Debug\net5.0\Football.deps.json
+D:\ANUL 3\.NET\Introducere-in-.NET\Lab2\Football\bin\Debug\net5.0\Football.runtimeconfig.json
+D:\ANUL 3\.NET\Introducere-in-.NET\Lab2\Football\bin\Debug\net5.0\Football.runtimeconfig.dev.json
+D:\ANUL 3\.NET\Introducere-in-.NET\Lab2\Football\bin\Debug\net5.0\Football.dll
+D:\ANUL 3\.NET\Introducere-in-.NET\Lab2\Football\bin\Debug\net5.0\ref\Football.dll
+D:\ANUL 3\.NET\Introducere-in-.NET\Lab2\Football\bin\Debug\net5.0\Football.pdb
+D:\ANUL 3\.NET\Introducere-in-.NET\Lab2\Football\obj\Debug\net5.0\Football.csproj.AssemblyReference.cache
+D:\ANUL 3\.NET\Introducere-in-.NET\Lab2\Football\obj\Debug\net5.0\Football.GeneratedMSBuildEditorConfig.editorconfig
+D:\ANUL 3\.NET\Introducere-in-.NET\Lab2\Football\obj\Debug\net5.0\Football.AssemblyInfoInputs.cache
+D:\ANUL 3\.NET\Introducere-in-.NET\Lab2\Football\obj\Debug\net5.0\Football.AssemblyInfo.cs
+D:\ANUL 3\.NET\Introducere-in-.NET\Lab2\Football\obj\Debug\net5.0\Football.csproj.CoreCompileInputs.cache
+D:\ANUL 3\.NET\Introducere-in-.NET\Lab2\Football\obj\Debug\net5.0\Football.dll
+D:\ANUL 3\.NET\Introducere-in-.NET\Lab2\Football\obj\Debug\net5.0\ref\Football.dll
+D:\ANUL 3\.NET\Introducere-in-.NET\Lab2\Football\obj\Debug\net5.0\Football.pdb
+D:\ANUL 3\.NET\Introducere-in-.NET\Lab2\Football\obj\Debug\net5.0\Football.genruntimeconfig.cache

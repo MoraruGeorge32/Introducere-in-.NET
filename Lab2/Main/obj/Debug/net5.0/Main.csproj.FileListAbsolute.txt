@@ -1,0 +1,5 @@
+D:\ANUL 3\.NET\Introducere-in-.NET\Lab2\Main\obj\Debug\net5.0\Main.csproj.AssemblyReference.cache
+D:\ANUL 3\.NET\Introducere-in-.NET\Lab2\Main\obj\Debug\net5.0\Main.GeneratedMSBuildEditorConfig.editorconfig
+D:\ANUL 3\.NET\Introducere-in-.NET\Lab2\Main\obj\Debug\net5.0\Main.AssemblyInfoInputs.cache
+D:\ANUL 3\.NET\Introducere-in-.NET\Lab2\Main\obj\Debug\net5.0\Main.AssemblyInfo.cs
+D:\ANUL 3\.NET\Introducere-in-.NET\Lab2\Main\obj\Debug\net5.0\Main.csproj.CoreCompileInputs.cache

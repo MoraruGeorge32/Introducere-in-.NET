@@ -1,0 +1,16 @@
+D:\ANUL 3\.NET\Introducere-in-.NET\Lab2\Weather\obj\Debug\net5.0\Weather.csproj.AssemblyReference.cache
+D:\ANUL 3\.NET\Introducere-in-.NET\Lab2\Weather\obj\Debug\net5.0\Weather.GeneratedMSBuildEditorConfig.editorconfig
+D:\ANUL 3\.NET\Introducere-in-.NET\Lab2\Weather\obj\Debug\net5.0\Weather.AssemblyInfoInputs.cache
+D:\ANUL 3\.NET\Introducere-in-.NET\Lab2\Weather\obj\Debug\net5.0\Weather.AssemblyInfo.cs
+D:\ANUL 3\.NET\Introducere-in-.NET\Lab2\Weather\obj\Debug\net5.0\Weather.csproj.CoreCompileInputs.cache
+D:\ANUL 3\.NET\Introducere-in-.NET\Lab2\Weather\bin\Debug\net5.0\Weather.exe
+D:\ANUL 3\.NET\Introducere-in-.NET\Lab2\Weather\bin\Debug\net5.0\Weather.deps.json
+D:\ANUL 3\.NET\Introducere-in-.NET\Lab2\Weather\bin\Debug\net5.0\Weather.runtimeconfig.json
+D:\ANUL 3\.NET\Introducere-in-.NET\Lab2\Weather\bin\Debug\net5.0\Weather.runtimeconfig.dev.json
+D:\ANUL 3\.NET\Introducere-in-.NET\Lab2\Weather\bin\Debug\net5.0\Weather.dll
+D:\ANUL 3\.NET\Introducere-in-.NET\Lab2\Weather\bin\Debug\net5.0\ref\Weather.dll
+D:\ANUL 3\.NET\Introducere-in-.NET\Lab2\Weather\bin\Debug\net5.0\Weather.pdb
+D:\ANUL 3\.NET\Introducere-in-.NET\Lab2\Weather\obj\Debug\net5.0\Weather.dll
+D:\ANUL 3\.NET\Introducere-in-.NET\Lab2\Weather\obj\Debug\net5.0\ref\Weather.dll
+D:\ANUL 3\.NET\Introducere-in-.NET\Lab2\Weather\obj\Debug\net5.0\Weather.pdb
+D:\ANUL 3\.NET\Introducere-in-.NET\Lab2\Weather\obj\Debug\net5.0\Weather.genruntimeconfig.cache
