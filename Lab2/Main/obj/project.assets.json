@@ -1,61 +1,26 @@
 {
   "version": 3,
   "targets": {
-    "net5.0": {
-      "Football/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v5.0",
-        "compile": {
-          "bin/placeholder/Football.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/Football.dll": {}
-        }
-      },
-      "Weather/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v5.0",
-        "compile": {
-          "bin/placeholder/Weather.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/Weather.dll": {}
-        }
-      }
-    }
+    "net5.0": {}
   },
-  "libraries": {
-    "Football/1.0.0": {
-      "type": "project",
-      "path": "../Football/Football.csproj",
-      "msbuildProject": "../Football/Football.csproj"
-    },
-    "Weather/1.0.0": {
-      "type": "project",
-      "path": "../Weather/Weather.csproj",
-      "msbuildProject": "../Weather/Weather.csproj"
-    }
-  },
+  "libraries": {},
   "projectFileDependencyGroups": {
-    "net5.0": [
-      "Football >= 1.0.0",
-      "Weather >= 1.0.0"
-    ]
+    "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\morar\\.nuget\\packages\\": {}
+    "C:\\Users\\Khety\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\ANUL 3\\.NET\\Introducere-in-.NET\\Lab2\\Main\\Main.csproj",
+      "projectUniqueName": "D:\\_ user ecaaa\\Documents\\GitHub\\Introducere-in-.NET\\Lab2\\Main\\Main.csproj",
       "projectName": "Main",
-      "projectPath": "D:\\ANUL 3\\.NET\\Introducere-in-.NET\\Lab2\\Main\\Main.csproj",
-      "packagesPath": "C:\\Users\\morar\\.nuget\\packages\\",
-      "outputPath": "D:\\ANUL 3\\.NET\\Introducere-in-.NET\\Lab2\\Main\\obj\\",
+      "projectPath": "D:\\_ user ecaaa\\Documents\\GitHub\\Introducere-in-.NET\\Lab2\\Main\\Main.csproj",
+      "packagesPath": "C:\\Users\\Khety\\.nuget\\packages\\",
+      "outputPath": "D:\\_ user ecaaa\\Documents\\GitHub\\Introducere-in-.NET\\Lab2\\Main\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\morar\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Khety\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
@@ -66,14 +31,7 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
-          "projectReferences": {
-            "D:\\ANUL 3\\.NET\\Introducere-in-.NET\\Lab2\\Football\\Football.csproj": {
-              "projectPath": "D:\\ANUL 3\\.NET\\Introducere-in-.NET\\Lab2\\Football\\Football.csproj"
-            },
-            "D:\\ANUL 3\\.NET\\Introducere-in-.NET\\Lab2\\Weather\\Weather.csproj": {
-              "projectPath": "D:\\ANUL 3\\.NET\\Introducere-in-.NET\\Lab2\\Weather\\Weather.csproj"
-            }
-          }
+          "projectReferences": {}
         }
       },
       "warningProperties": {
